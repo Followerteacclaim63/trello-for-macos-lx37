@@ -1,4 +1,4 @@
-#  
+#  Trello for macOS updated Script: multi-device sync & OCR scanning is the best Trello for macOS script, featuring multi-device sync and OCR scanning. Safe, efficient, and optimized
 
 
 
